@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktop_table_docs=self.webpackChunktop_table_docs||[]).push([[4342],{9167:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/topTable/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
